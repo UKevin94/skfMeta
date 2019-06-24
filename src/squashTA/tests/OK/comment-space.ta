@@ -1,0 +1,11 @@
+// Cas passant avec espaces et tabulations
+
+METADATA :
+
+first_key       :               first_value
+second_key    :     second_value
+
+TEST :
+#  LOAD sample-dataset.xml TO XML DATASET dataset
+
+

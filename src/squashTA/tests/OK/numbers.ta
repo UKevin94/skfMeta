@@ -1,0 +1,22 @@
+// Cas passant avec chiffres dans les clés-valeurs
+
+METADATA :
+// Number in key
+11111 : first_value
+22222
+33333 : one
+      : two
+      : three
+mix4444
+//Number in value
+first_key : 11111
+
+multiline : 22222
+          : zzzzz
+          : 33333
+          : mix44
+
+solo_line : mix5555
+
+TEST :
+#  LOAD sample-dataset.xml TO XML DATASET dataset

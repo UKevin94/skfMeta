@@ -1,0 +1,11 @@
+//Cas passant avec les char acceptés
+//Key : - _ .
+//Value : - _ . /
+
+METADATA :
+
+first_key-to.test : first_value
+second_key : second-key_to.test/now
+
+TEST :
+#  LOAD sample-dataset.xml TO XML DATASET dataset
