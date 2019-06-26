@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec97d9e4-bd7f-4d8b-aadb-58ad73ed4b78" name="Default Changelist" comment="" />
+    <list default="true" id="ec97d9e4-bd7f-4d8b-aadb-58ad73ed4b78" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/squashTA/tests/OK/no-metadata.ta" beforeDir="false" afterPath="$PROJECT_DIR$/src/squashTA/tests/OK/no-metadata.ta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA.galaxia/componentRegistry.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/Circle_Blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/Circle_Green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/Circle_Grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/Circle_Red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/Circle_White.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/Circle_Yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/collapse.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/expand.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/logo_squash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/images/logo_squash_favicone.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/javascripts/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/stylesheets/knacss.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/public/stylesheets/tweaks.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/html-reports/squash-ta-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/surefire-reports/TEST-tests.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/surefire-reports/tests-output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/squashTA/surefire-reports/tests.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,15 +38,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/squashTA/tests/OK/special-char.ta">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/squashTA/tests/OK/standard-case.ta">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,7 +92,7 @@
         <entry file="file://$PROJECT_DIR$/src/squashTA/tests/first-test.ta">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+              <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -87,8 +100,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="476">
+              <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/squashTA/tests/KO/multiline-space.ta">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -99,6 +121,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,19 +150,19 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-1928" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,9 +245,11 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
@@ -364,13 +391,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/squashTA/tests/KO/multiline-space.ta">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/squashTA/tests/KO/wrong-pos.ta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -430,20 +450,27 @@
     <entry file="file://$PROJECT_DIR$/src/squashTA/tests/OK/EcosystemOK/test-two.ta">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/squashTA/tests/OK/EcosystemOK/teardown.ta">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/squashTA/tests/first-test.ta">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" column="43" lean-forward="true" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/squashTA/tests/OK/EcosystemOK/teardown.ta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/squashTA/tests/KO/multiline-space.ta">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="476">
+          <caret line="28" column="39" lean-forward="true" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="39" />
         </state>
       </provider>
     </entry>
