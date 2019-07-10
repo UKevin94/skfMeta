@@ -1,0 +1,11 @@
+
+METADATA :
+unicity_ok : value2
+
+unicity_ok_multiline : value_one
+					 : value_two
+					 : value_three
+
+TEST :
+LOAD sample-resource.txt AS resource
+          

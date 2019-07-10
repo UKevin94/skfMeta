@@ -1,3 +1,0 @@
-// Cas passant sans metadata (passer des TNR)
-TEST :
-#  LOAD sample-dataset.xml TO XML DATASET dataset

@@ -1,0 +1,14 @@
+// Cas passant avec les mêmes valeurs dans un multiline
+//Vérifier le warning
+
+METADATA :
+duplicate : same
+      	  : same
+      	  : same
+      	  : same
+duplicate_two : 1
+          : 1
+
+
+TEST :
+#  LOAD sample-dataset.xml TO XML DATASET dataset
